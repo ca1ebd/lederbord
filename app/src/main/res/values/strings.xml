@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lederbord</string>
+    <string name="baseball_name">Baseball</string>
+    <string name="soccer_name">Soccer</string>
+    <string name="football_name">Football</string>
+    <string name="lacrosse_name">Lacrosse</string>
+    <string name="home_name">Home</string>
+    <string name="away_name">Away</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="title_activity_football">FootballActivity</string>
+</resources>
